@@ -1,0 +1,7 @@
+{
+  "name": "ionic-cap-mf-federation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
